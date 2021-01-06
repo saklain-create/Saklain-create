@@ -1,6 +1,11 @@
-### Hi there 👋, my name is Mohammed  saklain
+### Hi there 👋, 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/saklain-create/count.svg" />
+</p>
+
+my name is Mohammed  saklain
 #### I'am leaning HTML and Javascript.
-![I'am leaning HTML and Javascript.](https://twitter.com/saklainshahab/header_photo)
 
 
 - 🔭 I’m currently working on this page. 
