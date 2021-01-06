@@ -1,13 +1,11 @@
-### Hi there 👋, 
-
-<img src="https://twitter.com/saklainshahab/header_photo" alt="Hello world">
-<p align="center"> 
+<p align="right"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/saklain-create/count.svg" />
 </p>
+![student](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
 
-my name is Mohammed  saklain
-#### I'am leaning HTML and Javascript.
+# Mohammed saklain
+I,am Mohammed saklain
 
 
 - 🔭 I’m currently working on this page. 
