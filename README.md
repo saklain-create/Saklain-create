@@ -10,7 +10,7 @@ I,am Mohammed saklain
 
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning HTML, Javascript And Github. 
+- 🌱 I’m currently learning Python And Github. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saklain-create)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@saklainshahab)  
