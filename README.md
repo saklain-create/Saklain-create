@@ -2,7 +2,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/saklain-create/count.svg" />
 </p>
-<img src="https://github.com/saklain-create/Saklain-create/blob/main/600x200.jpg" alt="Hello world">
+<img src= "https://github.com/saklain-create/Saklain-create/blob/main/IMAGE.jpg" alt="Hello world">
 
 
 # Mohammed saklain
